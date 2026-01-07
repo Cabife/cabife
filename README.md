@@ -23,12 +23,11 @@
 
 ##
 
-<div>
-  
+## Redes Sociais
 
-  
-</div>
-
+[![LINKEDIN](https://img.shields.io/badge/Mateus%20Campos-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-campos-paula/)
+[![INSTAGRAM](https://img.shields.io/badge/tlvzaudibert-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cabife_)
+[![YOUTUBE](https://img.shields.io/badge/audibert-000000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Cabife)
 
 <!--
 **Cabife/cabife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
